@@ -13,9 +13,9 @@
 
 🌱 I’m currently learning **MERN (MongoDB, Express.js, React.js, Node.js) stack**<br><br>
 👯 I’m looking to collaborate on **Web Development**<br><br>
-👨‍💻 All of my projects are available at **[GITHUB.COM/PASINDULJAY](https://https://github.com/HasithaAbesekara)** <br><br>
+👨‍💻 All of my projects are available at **[GITHUB.COM/Hasitha](https://https://github.com/HasithaAbesekara)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
-📫 You can contact me at **[PASINDULJAY@GMAIL.COM](mailto:madu52651@gmail.com)** <br><br>
+📫 You can contact me at **[Hasitha@GMAIL.COM](mailto:madu52651@gmail.com)** <br><br>
 <!-- 📄 See my portfolio at **[PASINDULJAY.ME](http://pasinduljay.me)** -->
 <br><br>
 
