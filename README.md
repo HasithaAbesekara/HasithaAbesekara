@@ -1,54 +1,51 @@
-<img align="center" alt="Banner"  src="Resources/banner.webp">
+<!--img align="center" alt="Banner"  src="Resources/banner.webp"-->
 
 <br><br>
 
 <!-- Header Section -->
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+L+Jayasinghe!;" /></h1>
-<h3 align="center"><font face="Arial"><a href="https://pasinduljay.me" target="_blank" rel="noreferrer">Visit</a> for a passionate DevOps Engineer from SriLanka, working on Cloud and DevOps for 1 years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&color=36BCF7FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasitha+L+Abesekara!;" /></h1>
+ 👋 Hello there! I'm Hasitha, a passionate software developer with a diverse skill set. My journey in the world of technology has allowed me to gain expertise in various areas, and I thrive on building innovative solutions.</font></h3>
 
 #
 
 <img align="right" alt="Coding" width="400" src="Resources/user1.gif">
 <br>
 
-🌱 I’m currently learning **DevSecOps & Cloud DevOps**<br><br>
-👯 I’m looking to collaborate on **DevOps | WordPress Projects**<br><br>
-👨‍💻 All of my projects are available at **[GITHUB.COM/PASINDULJAY](https://github.com/pasinduljay)** <br><br>
+🌱 I’m currently learning **MERN (MongoDB, Express.js, React.js, Node.js) stack**<br><br>
+👯 I’m looking to collaborate on **Web Development**<br><br>
+👨‍💻 All of my projects are available at **[GITHUB.COM/PASINDULJAY](https://https://github.com/HasithaAbesekara)** <br><br>
 💬 Ask me about **Technical Guides | Repairing | Bug Hunting**<br><br>
-📫 You can contact me at **[PASINDULJAY@GMAIL.COM](mailto:pasinduljay@gmail.com)** <br><br>
-📄 See my portfolio at **[PASINDULJAY.ME](http://pasinduljay.me)**
+📫 You can contact me at **[PASINDULJAY@GMAIL.COM](mailto:madu52651@gmail.com)** <br><br>
+<!-- 📄 See my portfolio at **[PASINDULJAY.ME](http://pasinduljay.me)** -->
 <br><br>
 
 # 🤝 Connect With Me:
 
 <div align="center">  
-<a href="https://github.com/pasinduljay" target="_blank">
+<a href="https://https://github.com/HasithaAbesekara" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/pasinduljay" target="_blank">
+<a href="https://www.linkedin.com/in/hasitha-abesekara-61aa712a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://reddit.com/user/pasinduljay/" target="_blank">
-<img src=	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=Reddit style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.facebook.com/pasinduljay" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100073548715363" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://wa.me/+94770576274" target="_blank">
-<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=WhatsApp style="margin-bottom: 5px;" />
+<!-- <a href="" target="_blank">
+<img src= alt=WhatsApp style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://t.me/pasinduljay" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src=alt=Telegram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://stackoverflow.com/users/pasinduljay" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=Stackoverflow style="margin-bottom: 5px;" />
-</a>
+<a href="" target="_blank">
+<img src= alt=Stackoverflow style="margin-bottom: 5px;" />
+</a> -->
 </div>  
 <br><br>
 
